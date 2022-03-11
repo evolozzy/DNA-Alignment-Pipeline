@@ -1,3 +1,5 @@
+**This repo is now archived, check the new version [https://github.com/evolozzy/NGS-Pipeline] which is under development**
+
 # DESCRIPTION
 These set of scripts is designed to align multiple samples of same species to a reference genome, then building consensus sequences and call variants. 
 
